@@ -1,0 +1,5 @@
+﻿Alex Hernandez:123 10th st, Allen, TX 78714:682-555-0000:1000000:alex@gmail.com:2500:true
+Albert Gomez:456 15th st, Austin, TX 78504:214-456-1000:1000001:albert@gmail.com:2500:true
+Jose Martinez:2004 44th st, Washington, DC 20001:202-456-2222:1000002:jose@gmail.com:495:false
+Joseph Olivas:123 16th st, Washington, DC 20002:202-555-6666:1000003:joseph@gmail.com:1200:true
+Pablo Cortez:777 2th st, Houston, TX 77002:800-100-2000:1000004:pablo@yahoo.com:1750:false
